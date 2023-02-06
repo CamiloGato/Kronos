@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement>
+        <ui:VisualElement style="height: 451px; width: 85px;" />
+        <ui:VisualElement name="Container" style="height: 422px; width: 895px;" />
+    </ui:VisualElement>
+</ui:UXML>

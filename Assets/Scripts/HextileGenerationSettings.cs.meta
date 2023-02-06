@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 2e569cb558ea0ba42a2de0fbb88e8e0a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Start: {fileID: 8884648562143612095, guid: 57c6f33eff2a80f4499ac5296f9dd878, type: 3}
+  - Earth: {fileID: 8884648562143612095, guid: 475cb288eabdb5f468ddaf33fa19cc66, type: 3}
+  - Nutrient: {fileID: 8884648562143612095, guid: 378a8d74e8e8d494f84b000e23433b99,
+      type: 3}
+  - Damage: {fileID: 8884648562143612095, guid: aa97f76e661d1ee43afd909fd5eb9ba9,
+      type: 3}
+  - Trash: {fileID: 8884648562143612095, guid: d85732fbef0409a499a4972579e122cd, type: 3}
+  - Goal: {fileID: 8884648562143612095, guid: 75f215fdd40a58445bdd69c137695f63, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
